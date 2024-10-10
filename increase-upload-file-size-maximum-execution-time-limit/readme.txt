@@ -1,7 +1,7 @@
 === Increase upload file size & Maximum Execution Time limit ===
 
 Tags			 : upload,file,size,limit,execution,maximum,time
-Stable tag		 : 2.0
+Stable tag		 : 3.0
 WordPress URI	 : https://wordpress.org/plugins/increase-upload-file-size-maximum-execution-time-limit/
 Plugin URI		 : https://puvox.software/software/wordpress-plugins/?plugin=increase-upload-file-size-maximum-execution-time-limit
 Contributors	 : puvoxsoftware,ttodua
@@ -13,20 +13,12 @@ License URI		 : https://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 5.0
 Tested up to	 : 5.8
 
-[ ✅ 𝐒𝐄𝐂𝐔𝐑𝐄 𝐏𝐋𝐔𝐆𝐈𝐍𝐒 b𝓎 𝒫𝓊𝓋𝑜𝓍]
-Increase upload file size & Maximum Execution Time limit
+
+Discontinued! Please use <a href="https://wordpress.org/plugins/additional-wp-tweaks-options/">Additional WP options</a>
 
 == Description ==
-= [ ✅ 𝐒𝐄𝐂𝐔𝐑𝐄 𝐏𝐋𝐔𝐆𝐈𝐍𝐒 b𝓎 𝒫𝓊𝓋𝑜𝓍] : =
-> • Revised for security to be reliable and free of vulnerability holes.
-> • Efficient, not to add any extra load/slowness to site.
-> • Don't collect private data.
-= Plugin Description =
-Increase upload file size & Maximum Execution Time limit
 
- 
-= Available Options =
-See all available options and their description on plugin's settings page.
+Discontinued! Please use <a href="https://wordpress.org/plugins/additional-wp-tweaks-options/">Additional WP options</a>
 
 
 == Screenshots ==
